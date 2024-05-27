@@ -1,2 +1,2 @@
 name: "dbt_first_project"
-models-paths: ["models"]
+model-paths: ["models"]
